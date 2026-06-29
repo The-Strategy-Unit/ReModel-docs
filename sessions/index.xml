@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>ReModel: Read, Run, Reuse Open Simulation Models</title>
+<link>https://the-strategy-unit.github.io/remodel-docs/sessions/</link>
+<atom:link href="https://the-strategy-unit.github.io/remodel-docs/sessions/index.xml" rel="self" type="application/rss+xml"/>
+<description>A website to support ReModel: Read, Run, Reuse Open Simulation Models</description>
+<generator>quarto-1.9.37</generator>
+<lastBuildDate>Thu, 25 Jun 2026 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Nonelective Flow DES Model</title>
+  <dc:creator>Dr Lucy Morgan</dc:creator>
+  <link>https://the-strategy-unit.github.io/remodel-docs/sessions/1_nonelective-flow/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<section id="session-1-date-goes-here" class="level1">
+<h1>Session 1: DATE GOES HERE</h1>
+<p>Lorem ipsum</p>
+<section id="session-objectives-and-outline" class="level2">
+<h2 class="anchored" data-anchor-id="session-objectives-and-outline">Session objectives and outline</h2>
+</section>
+<section id="actions-for-participants-before-the-session" class="level2">
+<h2 class="anchored" data-anchor-id="actions-for-participants-before-the-session">Actions for participants before the session</h2>
+</section>
+<section id="additional-resources" class="level2">
+<h2 class="anchored" data-anchor-id="additional-resources">Additional resources</h2>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>DES</category>
+  <guid>https://the-strategy-unit.github.io/remodel-docs/sessions/1_nonelective-flow/</guid>
+  <pubDate>Thu, 25 Jun 2026 23:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

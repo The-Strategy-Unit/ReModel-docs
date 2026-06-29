@@ -1,0 +1,91 @@
+[
+  {
+    "objectID": "sessions/index.html",
+    "href": "sessions/index.html",
+    "title": "ReModel sessions",
+    "section": "",
+    "text": "Nonelective Flow DES Model\n\n\nSession 1 [DATEHERE]: Technical Setup\n\n\n\nDES\n\n\n\n\n\n\n\n\n\nJun 26, 2026\n\n\nDr Lucy Morgan\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "join-us/index.html",
+    "href": "join-us/index.html",
+    "title": "Register for ReModel",
+    "section": "",
+    "text": "Links to registration pages for each of the ReModel sessions goes here",
+    "crumbs": [
+      "Join us",
+      "Register for ReModel"
+    ]
+  },
+  {
+    "objectID": "join-us/code-of-conduct.html",
+    "href": "join-us/code-of-conduct.html",
+    "title": "Code of Conduct",
+    "section": "",
+    "text": "Code of conduct goes here",
+    "crumbs": [
+      "Join us",
+      "Code of Conduct"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About ReModel",
+    "section": "",
+    "text": "Aims go here. The below, in nicer words. Something about wider analytical context\nHelp people within the NHS:\n\nrun open source simulation models on their own machines\ncritique/assess/evaluate simulation models with their pros and cons"
+  },
+  {
+    "objectID": "about.html#remodel-aims",
+    "href": "about.html#remodel-aims",
+    "title": "About ReModel",
+    "section": "",
+    "text": "Aims go here. The below, in nicer words. Something about wider analytical context\nHelp people within the NHS:\n\nrun open source simulation models on their own machines\ncritique/assess/evaluate simulation models with their pros and cons"
+  },
+  {
+    "objectID": "about.html#how-does-remodel-work",
+    "href": "about.html#how-does-remodel-work",
+    "title": "About ReModel",
+    "section": "How does ReModel work?",
+    "text": "How does ReModel work?\nSee our “How ReModel Works” page for further details on how sessions will run. All sessions are free for NHS participants."
+  },
+  {
+    "objectID": "about.html#how-do-i-join",
+    "href": "about.html#how-do-i-join",
+    "title": "About ReModel",
+    "section": "How do I join?",
+    "text": "How do I join?\nRegister for ReModel on our website."
+  },
+  {
+    "objectID": "about.html#how-we-are-funded",
+    "href": "about.html#how-we-are-funded",
+    "title": "About ReModel",
+    "section": "How we are funded",
+    "text": "How we are funded\nInfo about SCIC?"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "ReModel",
+    "section": "",
+    "text": "This is the website for ReModel: Read, Run, Reuse Open Simulation Models, hosted by the Strategy Unit.\nInformation about this project will be hosted here.\nNOTE: THIS IS STILL DRAFT AND A WORK IN PROGRESS\nFind out more about taking part and take a look at previous and upcoming sessions."
+  },
+  {
+    "objectID": "join-us/how-remodel-works.html",
+    "href": "join-us/how-remodel-works.html",
+    "title": "How ReModel Works",
+    "section": "",
+    "text": "How the sessions will run - each model exploration will run for two months, with one session per month. How long are the sessions? What technical requirements?\nOne technical session, one exploratory session\nCost",
+    "crumbs": [
+      "Join us",
+      "How ReModel Works"
+    ]
+  },
+  {
+    "objectID": "sessions/1_nonelective-flow/index.html",
+    "href": "sessions/1_nonelective-flow/index.html",
+    "title": "Nonelective Flow DES Model",
+    "section": "",
+    "text": "Lorem ipsum"
+  }
+]
