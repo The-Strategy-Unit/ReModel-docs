@@ -38,5 +38,5 @@ format:
       - brand
     css: _SUBrand.StyleSheet.css
 
-
-
+execute:
+  freeze: auto

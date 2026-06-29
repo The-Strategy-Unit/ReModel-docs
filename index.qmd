@@ -10,4 +10,6 @@ This is the website for ReModel: Read, Run, Reuse Open Simulation Models, hosted
 
 Information about this project will be hosted here.
 
+NOTE: THIS IS STILL DRAFT AND A WORK IN PROGRESS
+
 Find out more about [taking part](join-us/index.qmd) and take a look at [previous and upcoming sessions](sessions/index.qmd).
