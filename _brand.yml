@@ -7,13 +7,13 @@ meta:
 
 # adjust these paths if logos are placed elsewhere
 logo:
-  small: logos/logo_black_favicon.png
+  small: images/logo_black_favicon.png
   medium:
-    light: logos/logo_black_medium.png
-    dark: logos/logo_yellow_medium.png
+    light: images/logo_black_medium.png
+    dark: images/logo_yellow_medium.png
   large: 
-    light: logos/logo_black.svg 
-    dark: logos/logo_yellow.svg  
+    light: images/logo_black.svg 
+    dark: images/logo_yellow.svg  
 
 color:
   palette:    
@@ -31,9 +31,11 @@ color:
 typography:
   fonts:
     - family: "Roboto Slab"
-      weights: [300, 700]
+      weight: [300, 700]
+      source: google
     - family: "Open Sans"
-      weights: [400, 600, 700]
+      weight: [400, 600, 700]
+      source: google
 
   base:
     family: "Open Sans"
@@ -46,5 +48,3 @@ typography:
   link:
     color: info
 
-  strong:
-    weight: 700
