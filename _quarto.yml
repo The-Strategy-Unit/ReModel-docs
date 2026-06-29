@@ -3,7 +3,7 @@ project:
 
 website:
   description: "A website to support ReModel: Read, Run, Reuse Open Simulation Models"
-  site-url: https://the-strategy-unit.github.io/remodel-docs/ # you must change this appropriately for RSS feeds to work properly
+  site-url: https://the-strategy-unit.github.io/ReModel-docs/ # you must change this appropriately for RSS feeds to work properly
   title: "ReModel: Read, Run, Reuse Open Simulation Models"
   navbar:
     left:
