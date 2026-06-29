@@ -1,0 +1,12 @@
+---
+title: "How ReModel Works"
+format:
+  html:
+    toc: true
+---
+
+How the sessions will run - each model exploration will run for two months, with one session per month. How long are the sessions? What technical requirements?
+
+One technical session, one exploratory session
+
+Cost

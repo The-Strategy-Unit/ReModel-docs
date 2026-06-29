@@ -20,6 +20,18 @@ website:
         href: https://github.com/The-Strategy-Unit
       - icon: bluesky
         href: https://bsky.app/profile/strategyunit.bsky.social
+  sidebar:
+    - id: default
+      title: ""
+      
+    - id: join-us
+      title: "Join ReModel"
+      style: "docked"
+      background: light
+      contents:
+        - join-us/index.qmd
+        - join-us/how-remodel-works.qmd
+        - join-us/code-of-conduct.qmd
 format:
   html:
     theme:

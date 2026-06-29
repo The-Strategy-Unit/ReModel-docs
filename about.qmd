@@ -1,16 +1,29 @@
 ---
 title: "About ReModel"
 image: images/logo_yellow.svg
-about:
-  template: solana
-  links:
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/company/the-strategy-unit
-    - icon: github
-      text: Github
-      href: https://github.com/The-Strategy-Unit
-
+format: 
+  html:
+    toc: true
 ---
 
-Further context about the ReModel project to go here
+## ReModel aims
+
+Aims go here. The below, in nicer words. Something about wider analytical context
+
+Help people within the NHS:
+
+- run open source simulation models on their own machines
+- critique/assess/evaluate simulation models with their pros and cons
+
+## How does ReModel work?
+
+[See our "How ReModel Works" page](join-us/how-remodel-works.qmd) for further details on how sessions will run. All sessions are free for NHS participants.
+
+## How do I join?
+
+[Register for ReModel on our website](join-us/index.qmd).
+
+## How we are funded
+
+Info about SCIC?
+

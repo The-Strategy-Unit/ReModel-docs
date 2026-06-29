@@ -1,0 +1,8 @@
+---
+title: "Code of Conduct"
+format:
+  html:
+    toc: true
+---
+
+Code of conduct goes here
