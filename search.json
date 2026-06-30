@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "ReModel",
+    "section": "",
+    "text": "This is the website for ReModel: Read, Run, Reuse Open Simulation Models, hosted by the Strategy Unit.\nInformation about this project will be hosted here.\nNOTE: THIS IS STILL DRAFT AND A WORK IN PROGRESS\nFind out more about taking part and take a look at previous and upcoming sessions."
+  },
+  {
     "objectID": "sessions/index.html",
     "href": "sessions/index.html",
     "title": "ReModel sessions",
@@ -26,6 +33,17 @@
     "crumbs": [
       "Join us",
       "Code of Conduct"
+    ]
+  },
+  {
+    "objectID": "join-us/how-remodel-works.html",
+    "href": "join-us/how-remodel-works.html",
+    "title": "How ReModel Works",
+    "section": "",
+    "text": "How the sessions will run - each model exploration will run for two months, with one session per month. How long are the sessions? What technical requirements?\nOne technical session, one exploratory session\nCost",
+    "crumbs": [
+      "Join us",
+      "How ReModel Works"
     ]
   },
   {
@@ -62,24 +80,6 @@
     "title": "About ReModel",
     "section": "How we are funded",
     "text": "How we are funded\nInfo about SCIC?"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "ReModel",
-    "section": "",
-    "text": "This is the website for ReModel: Read, Run, Reuse Open Simulation Models, hosted by the Strategy Unit.\nInformation about this project will be hosted here.\nNOTE: THIS IS STILL DRAFT AND A WORK IN PROGRESS\nFind out more about taking part and take a look at previous and upcoming sessions."
-  },
-  {
-    "objectID": "join-us/how-remodel-works.html",
-    "href": "join-us/how-remodel-works.html",
-    "title": "How ReModel Works",
-    "section": "",
-    "text": "How the sessions will run - each model exploration will run for two months, with one session per month. How long are the sessions? What technical requirements?\nOne technical session, one exploratory session\nCost",
-    "crumbs": [
-      "Join us",
-      "How ReModel Works"
-    ]
   },
   {
     "objectID": "sessions/1_nonelective-flow/index.html",

@@ -6,15 +6,15 @@
       version="2.0">
 <channel>
 <title>ReModel: Read, Run, Reuse Open Simulation Models</title>
-<link>https://the-strategy-unit.github.io/remodel-docs/sessions/</link>
-<atom:link href="https://the-strategy-unit.github.io/remodel-docs/sessions/index.xml" rel="self" type="application/rss+xml"/>
+<link>https://the-strategy-unit.github.io/ReModel-docs/sessions/</link>
+<atom:link href="https://the-strategy-unit.github.io/ReModel-docs/sessions/index.xml" rel="self" type="application/rss+xml"/>
 <description>A website to support ReModel: Read, Run, Reuse Open Simulation Models</description>
-<generator>quarto-1.9.37</generator>
-<lastBuildDate>Thu, 25 Jun 2026 23:00:00 GMT</lastBuildDate>
+<generator>quarto-1.9.38</generator>
+<lastBuildDate>Fri, 26 Jun 2026 00:00:00 GMT</lastBuildDate>
 <item>
   <title>Nonelective Flow DES Model</title>
   <dc:creator>Dr Lucy Morgan</dc:creator>
-  <link>https://the-strategy-unit.github.io/remodel-docs/sessions/1_nonelective-flow/</link>
+  <link>https://the-strategy-unit.github.io/ReModel-docs/sessions/1_nonelective-flow/</link>
   <description><![CDATA[ 
 
 
@@ -40,8 +40,8 @@
 
  ]]></description>
   <category>DES</category>
-  <guid>https://the-strategy-unit.github.io/remodel-docs/sessions/1_nonelective-flow/</guid>
-  <pubDate>Thu, 25 Jun 2026 23:00:00 GMT</pubDate>
+  <guid>https://the-strategy-unit.github.io/ReModel-docs/sessions/1_nonelective-flow/</guid>
+  <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
