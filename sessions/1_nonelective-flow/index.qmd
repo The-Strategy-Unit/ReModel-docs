@@ -1,0 +1,18 @@
+---
+title: "Nonelective Flow DES Model"
+subtitle: "Session 1 [DATEHERE]: Technical Setup"
+author: Dr Lucy Morgan
+date: "2026-06-26"
+categories: [DES]
+toc: true
+---
+
+# Session 1: DATE GOES HERE
+
+Lorem ipsum
+
+## Session objectives and outline
+
+## Actions for participants before the session
+
+## Additional resources

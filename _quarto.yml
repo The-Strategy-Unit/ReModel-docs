@@ -1,0 +1,42 @@
+project:
+  type: website
+
+website:
+  description: "A website to support ReModel: Read, Run, Reuse Open Simulation Models"
+  site-url: https://the-strategy-unit.github.io/ReModel-docs/ # you must change this appropriately for RSS feeds to work properly
+  title: "ReModel: Read, Run, Reuse Open Simulation Models"
+  navbar:
+    left:
+      - text: About
+        file: about.qmd
+      - text: Join us
+        file: join-us/index.qmd
+      - href: sessions/index.qmd
+        text: Sessions
+    right:
+      - icon: rss
+        href: sessions/index.xml
+      - icon: github
+        href: https://github.com/The-Strategy-Unit
+      - icon: bluesky
+        href: https://bsky.app/profile/strategyunit.bsky.social
+  sidebar:
+    - id: default
+      title: ""
+      
+    - id: join-us
+      title: "Join ReModel"
+      style: "docked"
+      background: light
+      contents:
+        - join-us/index.qmd
+        - join-us/how-remodel-works.qmd
+        - join-us/code-of-conduct.qmd
+format:
+  html:
+    theme:
+      - brand
+    css: _SUBrand.StyleSheet.css
+
+execute:
+  freeze: auto

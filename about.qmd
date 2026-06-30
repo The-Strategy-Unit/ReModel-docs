@@ -1,0 +1,29 @@
+---
+title: "About ReModel"
+image: images/logo_yellow.svg
+format: 
+  html:
+    toc: true
+---
+
+## ReModel aims
+
+Aims go here. The below, in nicer words. Something about wider analytical context
+
+Help people within the NHS:
+
+- run open source simulation models on their own machines
+- critique/assess/evaluate simulation models with their pros and cons
+
+## How does ReModel work?
+
+[See our "How ReModel Works" page](join-us/how-remodel-works.qmd) for further details on how sessions will run. All sessions are free for NHS participants.
+
+## How do I join?
+
+[Register for ReModel on our website](join-us/index.qmd).
+
+## How we are funded
+
+Info about SCIC?
+
