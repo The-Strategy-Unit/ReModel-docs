@@ -29,8 +29,8 @@ Cycle 1 focuses on the open-source **Non-Elective Flow Simulation**, a discrete-
 
 Registration for this cycle covers both online sessions and will open on **13 August 2026** and close on **2 October 2026**:
 
-- **Running the model:** 7 October 2026
-- **Reusing the model:** 28 October 2026
+- **Running the model:** 11am-12pm - 7 October 2026
+- **Reusing the model:** 11am-12pm - 28 October 2026
 
 [Sign up for Cycle 1]({{< var registration_forms.cycle_1 >}}){.btn .btn-primary target="_blank"}
 
@@ -40,8 +40,8 @@ Cycle 2 focuses on **MOOOD**, an open-source discrete-event simulation that foll
 
 Registration for this cycle covers both online sessions and will open on **[insert date]** and close on **[insert date]**:
 
-- **Running the model:** 25 November 2026
-- **Reusing the model:** 6 January 2027
+- **Running the model:** 11am-12pm - 25 November 2026
+- **Reusing the model:** 11am-12pm - 6 January 2027
 
 [Sign up for Cycle 2]({{< var registration_forms.cycle_2 >}}){.btn .btn-primary target="_blank"}
 
@@ -51,8 +51,8 @@ Cycle 3 focuses on an **open R simulation of intensive-care triage during period
 
 Registration for this cycle covers both online sessions and will open on **[insert date]** and close on **[insert date]**:
 
-- **Running the model:** 27 January 2027
-- **Reusing the model:** 24 February 2027
+- **Running the model:** 11am-12pm - 27 January 2027
+- **Reusing the model:** 11am-12pm - 24 February 2027
 
 [Sign up for Cycle 3]({{< var registration_forms.cycle_3 >}}){.btn .btn-primary target="_blank"}
 
