@@ -18,6 +18,7 @@ The **Non-Elective Flow Simulation** is an open-source discrete-event simulation
 ## Actions for participants before the session
 
 Open the [model repository](https://github.com/ReModel-Club/Non-Elective-Flow-Simulation) and follow the instructions to get the model running. Participants should aim to:
+
 - clone the GitHub repository and identify the files needed to get started;
 - create the supplied Python environment and install the dependencies;
 - start the Streamlit application and run the simulation;
