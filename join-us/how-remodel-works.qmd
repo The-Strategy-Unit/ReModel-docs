@@ -7,9 +7,9 @@ format:
 
 ReModel will run in 2 monthly cycles, with each cycle focusing on a different simulation model. Each cycle will consist of two sessions: a Running session and a Reusing session.
 
-Session 1: Running - this session will be an opportunity to clone and run the model, reproduce an existing result or scenario, and confidently explore the model and its outputs. Participants will be encouraged to ask questions and share their insights.
+Session 1: Running - this session will be an opportunity to discuss our experiences of cloning and running an existing model and reproducing an existing result or scenario. Participants will be encouraged to ask questions and share their insights.
 
-Session 2: Reusing - this session will focus on the technical aspects of the model, including its structure, implementation, data requirements and input assumptions. Participants will consider what they would change, whether they understand the model well enough to make those changes, and how an edited model should be checked and documented.
+Session 2: Reusing - this session will focus on discussing the technical aspects of the model, including its structure, implementation, data requirements and input assumptions. Participants will discuss their experience of making a change to an existing model, and how they might check and document this.
 
 Each session will last for 1 hour, and will follow a participative discussion format.
 
