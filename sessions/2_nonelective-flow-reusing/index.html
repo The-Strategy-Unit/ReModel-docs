@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.10.18">
+<meta name="generator" content="quarto-1.10.19">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -45,9 +45,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark-b85bc7c33db8c58e0ec93c3465666fed.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-bf27225e3a48a9273f3daa8f8e829971.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark-b626d73c4c936ccc3cb08be7d45d1df6.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-bf27225e3a48a9273f3daa8f8e829971.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../../site_libs/bootstrap/bootstrap-25eac23d88b76baa0801982e114d5f98.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
@@ -317,8 +317,8 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#model-overview" id="toc-model-overview" class="nav-link active" data-scroll-target="#model-overview">Model overview</a>
   <ul class="collapse">
-  <li><a href="#session-objectives-and-outline" id="toc-session-objectives-and-outline" class="nav-link" data-scroll-target="#session-objectives-and-outline">Session objectives and outline</a></li>
   <li><a href="#actions-for-participants-before-the-session" id="toc-actions-for-participants-before-the-session" class="nav-link" data-scroll-target="#actions-for-participants-before-the-session">Actions for participants before the session</a></li>
+  <li><a href="#session-objectives-and-outline" id="toc-session-objectives-and-outline" class="nav-link" data-scroll-target="#session-objectives-and-outline">Session objectives and outline</a></li>
   <li><a href="#additional-resources" id="toc-additional-resources" class="nav-link" data-scroll-target="#additional-resources">Additional resources</a></li>
   </ul></li>
   </ul>
@@ -397,32 +397,28 @@ All sessions
   }
 })();
 </script>
-<section id="session-objectives-and-outline" class="level2">
-<h2 class="anchored" data-anchor-id="session-objectives-and-outline">Session objectives and outline</h2>
-<p>This session will consider whether participants understand the model well enough to reuse it. Participants will:</p>
+<section id="actions-for-participants-before-the-session" class="level2">
+<h2 class="anchored" data-anchor-id="actions-for-participants-before-the-session">Actions for participants before the session</h2>
+<p>In order to reuse a model you need to understand its structure and implementation. Prior to the session participants will:</p>
 <ul>
 <li>describe how they think the model is structured from inputs through to outputs;</li>
 <li>compare that understanding with the repository and SimPy implementation;</li>
 <li>identify how patients, queues, resources and events are represented;</li>
 <li>locate assumptions for arrivals, length of stay, capacity and SDEC activity;</li>
 <li>discuss what they would change for a different question, service or local setting;</li>
-<li>trace a selected input assumption through the model to its effect on outputs; and</li>
-<li>identify how a change would need to be tested, validated and documented.</li>
+<li>attempt to make a change to the model and run it successfully;</li>
+<li>consider how a change would need to be tested, validated and documented.</li>
 </ul>
-<p>The aim is for participants to be able to identify an input assumption they would change, locate it in the model and assess whether they understand the implementation well enough to make the change confidently.</p>
+<p>The aim is for participants to be able to identify a model component that they would change, locate it in the model and assess whether they understand the implementation well enough to make the change confidently.</p>
 </section>
-<section id="actions-for-participants-before-the-session" class="level2">
-<h2 class="anchored" data-anchor-id="actions-for-participants-before-the-session">Actions for participants before the session</h2>
-<ul>
-<li>Retain the working environment and editable repository from Session 1.</li>
-<li>If you did not attend Session 1, confirm that you can complete a model run before this session.</li>
-<li>Consider one assumption or feature you would change for your own service or analytical question.</li>
-</ul>
+<section id="session-objectives-and-outline" class="level2">
+<h2 class="anchored" data-anchor-id="session-objectives-and-outline">Session objectives and outline</h2>
+<p>This session will focus on discussing how participants experienced reusing the model. Participants will: - share their experience of modifying the model for their own needs; - discuss any issues they encountered and how they resolved them; - reflect on what they learned from attempting to reuse the model.</p>
 </section>
 <section id="additional-resources" class="level2">
 <h2 class="anchored" data-anchor-id="additional-resources">Additional resources</h2>
 <ul>
-<li><a href="https://github.com/Countess-of-Chester-Hospital-NHS-FT/Non-Elective-Flow-Simulation">GitHub repository</a> — source code and repository documentation.</li>
+<li><a href="https://github.com/ReModel-Club/Non-Elective-Flow-Simulation">GitHub repository</a> — source code and repository documentation.</li>
 <li><a href="https://drive.google.com/file/d/1BIUDaDfDp2cj6EF19908XQ4eB7h9GMCp/view">Project presentation slides</a> — background to the model and its intended use.</li>
 <li><a href="https://youtu.be/0DUx5hhxjoA">HSMA showcase presentation</a> — recorded project presentation.</li>
 <li><a href="https://doi.org/10.1080/17477778.2026.2663849">Vidigi paper</a> — related work on animated visualisation of discrete-event simulation models, using this model as an application example.</li>
