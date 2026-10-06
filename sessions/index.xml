@@ -484,12 +484,24 @@ All sessions
 </script>
 <section id="actions-for-participants-before-the-session" class="level2">
 <h2 class="anchored" data-anchor-id="actions-for-participants-before-the-session">Actions for participants before the session</h2>
-<p>Open the <a href="https://github.com/ReModel-Club/Non-Elective-Flow-Simulation">model repository</a> and follow the instructions to get the model running. Participants should aim to: - clone the GitHub repository and identify the files needed to get started; - create the supplied Python environment and install the dependencies; - start the Streamlit application and run the simulation; - reproduce an existing scenario and check that the run has completed as expected; - explore the existing controls and interpret the principal outputs.</p>
+<p>Open the <a href="https://github.com/ReModel-Club/Non-Elective-Flow-Simulation">model repository</a> and follow the instructions to get the model running. Participants should aim to:</p>
+<ul>
+<li>clone the GitHub repository and identify the files needed to get started;</li>
+<li>create the supplied Python environment and install the dependencies;</li>
+<li>start the Streamlit application and run the simulation;</li>
+<li>reproduce an existing scenario and check that the run has completed as expected;</li>
+<li>explore the existing controls and interpret the principal outputs.</li>
+</ul>
 <p>Alternatively, participants can use <a href="https://github.com/codespaces">CodeSpaces</a> to explore the model without a local installation (see README for details). The aim is for participants to come to the session with a successful model run that they can continue to explore.</p>
 </section>
 <section id="session-objectives-and-outline" class="level2">
 <h2 class="anchored" data-anchor-id="session-objectives-and-outline">Session objectives and outline</h2>
-<p>This session will focus on discussing how participants experienced getting the model running. Participants will: - discuss any issues they encountered and how they resolved them; - share their experience of running the model and interpreting the outputs; - discuss what they learned from attempting to reproduce an existing model</p>
+<p>This session will focus on discussing how participants experienced getting the model running. Participants will:</p>
+<ul>
+<li>discuss any issues they encountered and how they resolved them;</li>
+<li>share their experience of running the model and interpreting the outputs;</li>
+<li>discuss what they learned from attempting to reproduce an existing model</li>
+</ul>
 </section>
 <section id="additional-resources" class="level2">
 <h2 class="anchored" data-anchor-id="additional-resources">Additional resources</h2>
