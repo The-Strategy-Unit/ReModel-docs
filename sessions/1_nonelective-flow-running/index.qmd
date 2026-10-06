@@ -15,27 +15,26 @@ The **Non-Elective Flow Simulation** is an open-source discrete-event simulation
 
 {{< include ../_all-sessions.qmd >}}
 
-## Session objectives and outline
+## Actions for participants before the session
 
-This session will focus on obtaining the code and running the model as it currently exists. Participants will:
-
+Open the [model repository](https://github.com/ReModel-Club/Non-Elective-Flow-Simulation) and follow the instructions to get the model running. Participants should aim to:
 - clone the GitHub repository and identify the files needed to get started;
 - create the supplied Python environment and install the dependencies;
 - start the Streamlit application and run the simulation;
-- reproduce an existing scenario and check that the run has completed as expected; and
+- reproduce an existing scenario and check that the run has completed as expected; 
 - explore the existing controls and interpret the principal outputs.
 
-The aim is for participants to leave with a local copy of the repository, a working environment and a successful model run that they can continue to explore.
+Alternatively, participants can use [CodeSpaces](https://github.com/codespaces) to explore the model without a local installation (see README for details). The aim is for participants to come to the session with a successful model run that they can continue to explore.
 
-## Actions for participants before the session
+## Session objectives and outline
 
-- Bring a laptop on which you can use GitHub and install or run Python.
-- Clone or download the [model repository](https://github.com/Countess-of-Chester-Hospital-NHS-FT/Non-Elective-Flow-Simulation).
-- Follow the repository's current environment instructions as far as you can. Make a note of any errors so these can be discussed during the session.
-- If time allows, try the browser-based [Streamlit application](https://non-elective-flow-simulation-coch.streamlit.app/).
+This session will focus on discussing how participants experienced getting the model running. Participants will:
+- discuss any issues they encountered and how they resolved them;
+- share their experience of running the model and interpreting the outputs;
+- discuss what they learned from attempting to reproduce an existing model
 
 ## Additional resources
 
-- [GitHub repository](https://github.com/Countess-of-Chester-Hospital-NHS-FT/Non-Elective-Flow-Simulation) — model code, application and environment files.
+- [GitHub repository](https://github.com/ReModel-Club/Non-Elective-Flow-Simulation) — model code, application and environment files.
 - [Interactive Streamlit application](https://non-elective-flow-simulation-coch.streamlit.app/) — run scenarios without a local installation.
 - [HSMA project overview](https://hsma.co.uk/previous_projects/hsma_6/H6_6001_DES_modelling_non_elective_flow/index.html) — project background and links to the code, application and presentation material.
