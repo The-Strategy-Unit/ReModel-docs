@@ -30,6 +30,7 @@ Alternatively, participants can use [CodeSpaces](https://github.com/codespaces) 
 ## Session objectives and outline
 
 This session will focus on discussing how participants experienced getting the model running. Participants will:
+
 - discuss any issues they encountered and how they resolved them;
 - share their experience of running the model and interpreting the outputs;
 - discuss what they learned from attempting to reproduce an existing model
