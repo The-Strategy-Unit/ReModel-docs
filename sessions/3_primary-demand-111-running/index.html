@@ -317,8 +317,8 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#model-overview" id="toc-model-overview" class="nav-link active" data-scroll-target="#model-overview">Model overview</a>
   <ul class="collapse">
-  <li><a href="#session-objectives-and-outline" id="toc-session-objectives-and-outline" class="nav-link" data-scroll-target="#session-objectives-and-outline">Session objectives and outline</a></li>
   <li><a href="#actions-for-participants-before-the-session" id="toc-actions-for-participants-before-the-session" class="nav-link" data-scroll-target="#actions-for-participants-before-the-session">Actions for participants before the session</a></li>
+  <li><a href="#session-objectives-and-outline" id="toc-session-objectives-and-outline" class="nav-link" data-scroll-target="#session-objectives-and-outline">Session objectives and outline</a></li>
   <li><a href="#additional-resources" id="toc-additional-resources" class="nav-link" data-scroll-target="#additional-resources">Additional resources</a></li>
   </ul></li>
   </ul>
@@ -366,7 +366,9 @@ ul.task-list li input[type="checkbox"] {
 <h1>Model overview</h1>
 <p><strong>MOOOD</strong> is an open-source discrete-event simulation developed by Richard Pilbery and colleagues. It follows callers after an NHS 111 primary-care disposition and represents subsequent contact with primary care, NHS 111, ambulance services and emergency departments. The Python and SimPy model compares the existing system with timely primary-care contact and reports activity across services and avoidable ED attendance.</p>
 <p>The original data and parameters relate to callers registered with Bradford and Airedale GP practices, so reuse elsewhere requires local review and validation.</p>
-<p><a href="../../join-us/index.html" class="btn btn-primary session-join-action">How to join</a></p>
+<p><strong>The link to sign up to this cycle will be released on 28th October 2026. Please check back then to register your interest in attending.</strong> <!---
+[How to join](../../join-us/index.qmd){.btn .btn-primary .session-join-action}
+--></p>
 <div class="all-sessions-menu">
 <div class="all-sessions-title">
 All sessions
@@ -398,31 +400,31 @@ All sessions
   }
 })();
 </script>
-<section id="session-objectives-and-outline" class="level2">
-<h2 class="anchored" data-anchor-id="session-objectives-and-outline">Session objectives and outline</h2>
-<p>This session will focus on obtaining the code and running the existing analysis. Participants will:</p>
-<ul>
-<li>clone the GitHub repository and identify the main execution and documentation files;</li>
-<li>create the Python environment and install the required dependencies;</li>
-<li>run the model and, where appropriate, its interactive application;</li>
-<li>reproduce an existing scenario and compare its behaviour with the published paper; and</li>
-<li>explore the current inputs and outputs while accounting for stochastic variation.</li>
-</ul>
-<p>The aim is for participants to leave with a local copy of the repository, a working environment and a successful model run that they can continue to explore.</p>
-</section>
 <section id="actions-for-participants-before-the-session" class="level2">
 <h2 class="anchored" data-anchor-id="actions-for-participants-before-the-session">Actions for participants before the session</h2>
+<p>Open the <a href="https://github.com/ReModel-Club/MOOOD-study">MOOOD repository</a> and follow the setup instructions. Participants should aim to:</p>
+<!---
+- Follow the [generated documentation](https://richardpilbery.github.io/MOOOD-study/) and repository setup instructions as far as you can.
+-->
 <ul>
-<li>Bring a laptop on which you can use GitHub and install or run Python.</li>
-<li>Clone or download the <a href="https://github.com/RichardPilbery/MOOOD-study">MOOOD repository</a>.</li>
-<li>Follow the <a href="https://richardpilbery.github.io/MOOOD-study/">generated documentation</a> and repository setup instructions as far as you can.</li>
+<li>Clone the repository and follow the setup instructions in the README to get the model running locally.</li>
 <li>Read the abstract and strengths and limitations in the <a href="https://bmjopen.bmj.com/content/13/9/e076203">BMJ Open paper</a>.</li>
+</ul>
+<p>Alternatively, participants can use <a href="https://github.com/codespaces">CodeSpaces</a> to explore the model without a local installation (see README for details). The aim is for participants to come to the session with a successful model run that they can continue to explore.</p>
+</section>
+<section id="session-objectives-and-outline" class="level2">
+<h2 class="anchored" data-anchor-id="session-objectives-and-outline">Session objectives and outline</h2>
+<p>This session will focus on discussing how participants experienced getting the model running. Participants will:</p>
+<ul>
+<li>discuss any issues they encountered and how they resolved them;</li>
+<li>share their experience of running the model and interpreting the outputs;</li>
+<li>discuss what they learned from attempting to reproduce an existing model</li>
 </ul>
 </section>
 <section id="additional-resources" class="level2">
 <h2 class="anchored" data-anchor-id="additional-resources">Additional resources</h2>
 <ul>
-<li><a href="https://github.com/RichardPilbery/MOOOD-study">GitHub repository</a> — model, application, tests, data and container configuration.</li>
+<li><a href="https://github.com/ReModel-Club/MOOOD-study">GitHub repository</a> — model, application, tests, data and container configuration.</li>
 <li><a href="https://richardpilbery.github.io/MOOOD-study/">Generated technical documentation</a> — documentation for the codebase.</li>
 <li><a href="https://bmjopen.bmj.com/content/13/9/e076203">BMJ Open paper</a> — peer-reviewed methods, results and limitations.</li>
 <li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10496671/">Full text in PubMed Central</a> — alternative open-access version of the paper.</li>
