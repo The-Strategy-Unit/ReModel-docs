@@ -13,32 +13,36 @@ toc: true
 
 The original data and parameters relate to callers registered with Bradford and Airedale GP practices, so reuse elsewhere requires local review and validation.
 
+**The link to sign up to this cycle will be released on 28th October 2026. Please check back then to register your interest in attending.**
+<!---
 [How to join](../../join-us/index.qmd){.btn .btn-primary .session-join-action}
+-->
 
 {{< include ../_all-sessions.qmd >}}
 
-## Session objectives and outline
-
-This session will focus on obtaining the code and running the existing analysis. Participants will:
-
-- clone the GitHub repository and identify the main execution and documentation files;
-- create the Python environment and install the required dependencies;
-- run the model and, where appropriate, its interactive application;
-- reproduce an existing scenario and compare its behaviour with the published paper; and
-- explore the current inputs and outputs while accounting for stochastic variation.
-
-The aim is for participants to leave with a local copy of the repository, a working environment and a successful model run that they can continue to explore.
-
 ## Actions for participants before the session
 
-- Bring a laptop on which you can use GitHub and install or run Python.
-- Clone or download the [MOOOD repository](https://github.com/RichardPilbery/MOOOD-study).
+Open the [MOOOD repository](https://github.com/ReModel-Club/MOOOD-study) and follow the setup instructions. Participants should aim to:
+
+<!---
 - Follow the [generated documentation](https://richardpilbery.github.io/MOOOD-study/) and repository setup instructions as far as you can.
+-->
+- Clone the repository and follow the setup instructions in the README to get the model running locally.
 - Read the abstract and strengths and limitations in the [BMJ Open paper](https://bmjopen.bmj.com/content/13/9/e076203).
+
+Alternatively, participants can use [CodeSpaces](https://github.com/codespaces) to explore the model without a local installation (see README for details). The aim is for participants to come to the session with a successful model run that they can continue to explore.
+
+## Session objectives and outline
+
+This session will focus on discussing how participants experienced getting the model running. Participants will:
+
+- discuss any issues they encountered and how they resolved them;
+- share their experience of running the model and interpreting the outputs;
+- discuss what they learned from attempting to reproduce an existing model
 
 ## Additional resources
 
-- [GitHub repository](https://github.com/RichardPilbery/MOOOD-study) — model, application, tests, data and container configuration.
+- [GitHub repository](https://github.com/ReModel-Club/MOOOD-study) — model, application, tests, data and container configuration.
 - [Generated technical documentation](https://richardpilbery.github.io/MOOOD-study/) — documentation for the codebase.
 - [BMJ Open paper](https://bmjopen.bmj.com/content/13/9/e076203) — peer-reviewed methods, results and limitations.
 - [Full text in PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC10496671/) — alternative open-access version of the paper.

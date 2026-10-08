@@ -32,29 +32,38 @@ Registration for this cycle covers both online sessions and will open on **13 Au
 - **Running the model:** 11am-12pm - 7 October 2026
 - **Reusing the model:** 11am-12pm - 28 October 2026
 
+<!---
 [Sign up for Cycle 1]({{< var registration_forms.cycle_1 >}}){.btn .btn-primary target="_blank"}
+-->
+Sign up for Cycle 1 has now closed.
 
 ### Cycle 2: Meeting the demand of NHS 111 for primary care services
 
 Cycle 2 focuses on **MOOOD**, an open-source discrete-event simulation that follows callers after an NHS 111 primary-care disposition and models their subsequent contact with primary care, NHS 111, ambulance services and emergency departments. We will explore how timely primary-care contact affects activity across services and potentially avoidable emergency department attendance.
 
-Registration for this cycle covers both online sessions and will open on **[insert date]** and close on **[insert date]**:
+Registration for this cycle covers both online sessions and will open on 28th October 2026 and close on 23rd November 2026:
 
 - **Running the model:** 11am-12pm - 25 November 2026
 - **Reusing the model:** 11am-12pm - 6 January 2027
 
+<!---
 [Sign up for Cycle 2]({{< var registration_forms.cycle_2 >}}){.btn .btn-primary target="_blank"}
+-->
+The link to sign up to this cycle will be released on 28th October 2026. Please check back then to register your interest in attending.
 
 ### Cycle 3: The Value of Triage during Periods of Intense COVID-19 Demand
 
 Cycle 3 focuses on an **open R simulation of intensive-care triage during periods of intense COVID-19 demand**. We will explore how first-come, first-served admission, demand-based triage and reverse triage interact with demand, length of stay and capacity, and affect lives and life-years lost.
 
-Registration for this cycle covers both online sessions and will open on **[insert date]** and close on **[insert date]**:
+Registration for this cycle covers both online sessions and will open on 6th January 2027 and close on 25th January 2027:
 
 - **Running the model:** 11am-12pm - 27 January 2027
 - **Reusing the model:** 11am-12pm - 24 February 2027
 
+<!---
 [Sign up for Cycle 3]({{< var registration_forms.cycle_3 >}}){.btn .btn-primary target="_blank"}
+-->
+The link to sign up to this cycle will be released on 6th January 2027. Please check back then to register your interest in attending.
 
 ## Code of Conduct
 
