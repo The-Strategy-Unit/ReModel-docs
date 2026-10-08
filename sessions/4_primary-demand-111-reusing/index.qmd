@@ -13,7 +13,10 @@ toc: true
 
 The original data and parameters relate to callers registered with Bradford and Airedale GP practices, so reuse elsewhere requires local review and validation.
 
+<!---
 [How to join](../../join-us/index.qmd){.btn .btn-primary .session-join-action}
+-->
+**The link to sign up to this cycle will be released on 28th October 2026. Please check back then to register your interest in attending.**
 
 {{< include ../_all-sessions.qmd >}}
 
@@ -39,7 +42,7 @@ The aim is for participants to be able to identify an input or pathway assumptio
 
 ## Additional resources
 
-- [GitHub repository](https://github.com/RichardPilbery/MOOOD-study) — source code, tests and configuration.
+- [GitHub repository](https://github.com/ReModel-Club/MOOOD-study) — source code, tests and configuration.
 - [HSMA project page](https://hsma.co.uk/previous_projects/hsma_4/h4_4008_meeting_demand_111/index.html) — project background and supporting material.
 - [Healthcare Service Analytics & Decision Intelligence Atlas review](https://atlas.hsma.co.uk/packages_projects_tools/meeting_the_demand_of_111/) — assessment of documentation, testing, reproducibility and deployment.
 - [University of Plymouth research record](https://researchportal.plymouth.ac.uk/en/publications/modelling-nhs-england-111-demand-for-primary-care-services-a-disc/) — publication details and related outputs.
