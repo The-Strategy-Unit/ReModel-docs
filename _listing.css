@@ -62,19 +62,10 @@ main.content:has(.session-join-action) {
 }
 
 .session-join-action {
-  position: absolute;
-  top: 4.875rem;
-  right: 1.5rem;
   min-width: 9rem;
+  margin: 0.5rem 0 1.5rem;
   font-weight: 700;
   text-align: center;
-}
-
-@media (max-width: 767.98px) {
-  .session-join-action {
-    position: static;
-    margin: 0 0 1.5rem;
-  }
 }
 
 .all-sessions-menu {
