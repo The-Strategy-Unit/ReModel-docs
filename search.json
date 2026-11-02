@@ -1,38 +1,31 @@
 [
   {
-    "objectID": "join-us/code-of-conduct.html",
-    "href": "join-us/code-of-conduct.html",
-    "title": "Code of Conduct",
+    "objectID": "sessions/2_nonelective-flow-reusing/index.html",
+    "href": "sessions/2_nonelective-flow-reusing/index.html",
+    "title": "Reusing: Nonelective Flow DES",
     "section": "",
-    "text": "Community rules:\n\nBe respectful: Treat all participants with respect and kindness. Harassment, discrimination, or any form of abusive behavior will not be tolerated.\nCamera and microphone etiquette: When participating in video calls, ensure your camera and microphone are used appropriately. Mute your microphone when not speaking to minimize background noise. We ask that you keep your camera on during sessions to foster a more engaging and interactive environment, but we understand that there may be circumstances where this is not possible.\nStay on topic: Keep discussions relevant to the purpose of the community. Off-topic conversations should be taken to private messages.\nShare knowledge: Contribute your expertise and insights to help others. Be open to learning from others as well.\nReport issues: If you encounter any problems or witness rule violations, report them to the moderators."
+    "text": "The Non-Elective Flow Simulation is an open-source discrete-event simulation developed by Helena Robinson at Countess of Chester Hospital NHS Foundation Trust. It represents patients moving from the emergency department into SDEC or an inpatient bed and explores how bed capacity, admitted length of stay and SDEC activity affect queues and waiting times. The model is written in Python using SimPy and includes a Streamlit interface.\n\nRegistration for this cycle is now closed. Please check back for future cycles.\n\n\nAll sessions\n\n\nCycle 1: Running Non-Elective Flow DES\nCycle 1: Reusing Non-Elective Flow DES\nCycle 2: Running NHS 111 primary care DES\nCycle 2: Reusing NHS 111 primary care DES\nCycle 3: Running triage during intense COVID-19 demand\nCycle 3: Reusing triage during intense COVID-19 demand\n\n\n\n\n\nIn order to reuse a model you need to understand its structure and implementation. Prior to the session participants will:\n\ndescribe how they think the model is structured from inputs through to outputs;\ncompare that understanding with the repository and SimPy implementation;\nidentify how patients, queues, resources and events are represented;\nlocate assumptions for arrivals, length of stay, capacity and SDEC activity;\ndiscuss what they would change for a different question, service or local setting;\nattempt to make a change to the model and run it successfully;\nconsider how a change would need to be tested, validated and documented.\n\nThe aim is for participants to be able to identify a model component that they would change, locate it in the model and assess whether they understand the implementation well enough to make the change confidently.\n\n\n\nThis session will focus on discussing how participants experienced reusing the model. Participants will:\n\nshare their experience of modifying the model for their own needs;\ndiscuss any issues they encountered and how they resolved them;\nreflect on what they learned from attempting to reuse the model.\n\n\n\n\n\nGitHub repository — source code and repository documentation.\nProject presentation slides — background to the model and its intended use.\nHSMA showcase presentation — recorded project presentation.\nVidigi paper — related work on animated visualisation of discrete-event simulation models, using this model as an application example.\n\nThe project is documented through its repository and HSMA materials. We are not currently aware of a dedicated peer-reviewed paper or independent reproduction of this specific model."
   },
   {
-    "objectID": "join-us/index.html",
-    "href": "join-us/index.html",
-    "title": "Join ReModel",
+    "objectID": "sessions/2_nonelective-flow-reusing/index.html#actions-for-participants-before-the-session",
+    "href": "sessions/2_nonelective-flow-reusing/index.html#actions-for-participants-before-the-session",
+    "title": "Reusing: Nonelective Flow DES",
     "section": "",
-    "text": "ReModel will run in 2 monthly cycles, with each cycle focusing on a different simulation model. Each cycle will consist of two sessions: a Running session and a Reusing session.\nSession 1: Running - this session will be an opportunity to clone and run the model, reproduce an existing result or scenario, and confidently explore the model and its outputs. Participants will be encouraged to ask questions and share their insights.\nSession 2: Reusing - this session will focus on the technical aspects of the model, including its structure, implementation, data requirements and input assumptions. Participants will consider what they would change, whether they understand the model well enough to make those changes, and how an edited model should be checked and documented.\nEach session will last for 1 hour, and will follow a participative discussion format.\nThe sessions are free to attend, but spaces will be capped at 15 places per session on a first-come, first-served basis; NHS analysts will receive priority."
+    "text": "In order to reuse a model you need to understand its structure and implementation. Prior to the session participants will:\n\ndescribe how they think the model is structured from inputs through to outputs;\ncompare that understanding with the repository and SimPy implementation;\nidentify how patients, queues, resources and events are represented;\nlocate assumptions for arrivals, length of stay, capacity and SDEC activity;\ndiscuss what they would change for a different question, service or local setting;\nattempt to make a change to the model and run it successfully;\nconsider how a change would need to be tested, validated and documented.\n\nThe aim is for participants to be able to identify a model component that they would change, locate it in the model and assess whether they understand the implementation well enough to make the change confidently."
   },
   {
-    "objectID": "join-us/index.html#how-remodel-works",
-    "href": "join-us/index.html#how-remodel-works",
-    "title": "Join ReModel",
+    "objectID": "sessions/2_nonelective-flow-reusing/index.html#session-objectives-and-outline",
+    "href": "sessions/2_nonelective-flow-reusing/index.html#session-objectives-and-outline",
+    "title": "Reusing: Nonelective Flow DES",
     "section": "",
-    "text": "ReModel will run in 2 monthly cycles, with each cycle focusing on a different simulation model. Each cycle will consist of two sessions: a Running session and a Reusing session.\nSession 1: Running - this session will be an opportunity to clone and run the model, reproduce an existing result or scenario, and confidently explore the model and its outputs. Participants will be encouraged to ask questions and share their insights.\nSession 2: Reusing - this session will focus on the technical aspects of the model, including its structure, implementation, data requirements and input assumptions. Participants will consider what they would change, whether they understand the model well enough to make those changes, and how an edited model should be checked and documented.\nEach session will last for 1 hour, and will follow a participative discussion format.\nThe sessions are free to attend, but spaces will be capped at 15 places per session on a first-come, first-served basis; NHS analysts will receive priority."
+    "text": "This session will focus on discussing how participants experienced reusing the model. Participants will:\n\nshare their experience of modifying the model for their own needs;\ndiscuss any issues they encountered and how they resolved them;\nreflect on what they learned from attempting to reuse the model."
   },
   {
-    "objectID": "join-us/index.html#register-for-remodel",
-    "href": "join-us/index.html#register-for-remodel",
-    "title": "Join ReModel",
-    "section": "Register for ReModel",
-    "text": "Register for ReModel\nYou can sign up for one, several or all ReModel cycles. Each cycle focuses on one open simulation model and includes two linked sessions: Running and Reusing. Registration for a cycle covers both sessions in that cycle.\n\nCycle 1: Non-Elective Flow Simulation\nCycle 1 focuses on the open-source Non-Elective Flow Simulation, a discrete-event simulation of patients moving from the emergency department into same-day emergency care or an inpatient bed. We will explore how bed capacity, length of stay and same-day emergency care activity affect queues and waiting times.\nRegistration for this cycle covers both online sessions and will open on 13 August 2026 and close on 2 October 2026:\n\nRunning the model: 11am-12pm - 7 October 2026\nReusing the model: 11am-12pm - 28 October 2026\n\n\nSign up for Cycle 1 has now closed.\n\n\nCycle 2: Meeting the demand of NHS 111 for primary care services\nCycle 2 focuses on MOOOD, an open-source discrete-event simulation that follows callers after an NHS 111 primary-care disposition and models their subsequent contact with primary care, NHS 111, ambulance services and emergency departments. We will explore how timely primary-care contact affects activity across services and potentially avoidable emergency department attendance.\nRegistration for this cycle covers both online sessions and will open on 28th October 2026 and close on 23rd November 2026:\n\nRunning the model: 11am-12pm - 25 November 2026\nReusing the model: 11am-12pm - 6 January 2027\n\n\nThe link to sign up to this cycle will be released on 28th October 2026. Please check back then to register your interest in attending.\n\n\nCycle 3: The Value of Triage during Periods of Intense COVID-19 Demand\nCycle 3 focuses on an open R simulation of intensive-care triage during periods of intense COVID-19 demand. We will explore how first-come, first-served admission, demand-based triage and reverse triage interact with demand, length of stay and capacity, and affect lives and life-years lost.\nRegistration for this cycle covers both online sessions and will open on 6th January 2027 and close on 25th January 2027:\n\nRunning the model: 11am-12pm - 27 January 2027\nReusing the model: 11am-12pm - 24 February 2027\n\n\nThe link to sign up to this cycle will be released on 6th January 2027. Please check back then to register your interest in attending."
-  },
-  {
-    "objectID": "join-us/index.html#code-of-conduct",
-    "href": "join-us/index.html#code-of-conduct",
-    "title": "Join ReModel",
-    "section": "Code of Conduct",
-    "text": "Code of Conduct\nCommunity rules:\n\nBe respectful: Treat all participants with respect and kindness. Harassment, discrimination, or any form of abusive behavior will not be tolerated.\nCamera and microphone etiquette: When participating in video calls, ensure your camera and microphone are used appropriately. Mute your microphone when not speaking to minimize background noise. We ask that you keep your camera on during sessions to foster a more engaging and interactive environment, but we understand that there may be circumstances where this is not possible.\nStay on topic: Keep discussions relevant to the purpose of the community. Off-topic conversations should be taken to private messages.\nShare knowledge: Contribute your expertise and insights to help others. Be open to learning from others as well.\nReport issues: If you encounter any problems or witness rule violations, report them to the moderators."
+    "objectID": "sessions/2_nonelective-flow-reusing/index.html#additional-resources",
+    "href": "sessions/2_nonelective-flow-reusing/index.html#additional-resources",
+    "title": "Reusing: Nonelective Flow DES",
+    "section": "",
+    "text": "GitHub repository — source code and repository documentation.\nProject presentation slides — background to the model and its intended use.\nHSMA showcase presentation — recorded project presentation.\nVidigi paper — related work on animated visualisation of discrete-event simulation models, using this model as an application example.\n\nThe project is documented through its repository and HSMA materials. We are not currently aware of a dedicated peer-reviewed paper or independent reproduction of this specific model."
   },
   {
     "objectID": "sessions/6_triage-during-intense-demand-reusing/index.html",
@@ -63,6 +56,34 @@
     "text": "STARS reproduction website — methods, reporting assessment, validation discussion and reproducibility log.\nSTARS reproduction repository — independently recreated code and supporting material.\nArchived reproduction — citable snapshot of the reproducibility assessment.\nReproduction protocol — protocol used to structure the assessment.\nReproducibility study — related peer-reviewed study of discrete-event simulation reproducibility."
   },
   {
+    "objectID": "sessions/3_primary-demand-111-running/index.html",
+    "href": "sessions/3_primary-demand-111-running/index.html",
+    "title": "Running: Meeting the demand of 111 for primary care services",
+    "section": "",
+    "text": "MOOOD is an open-source discrete-event simulation developed by Richard Pilbery and colleagues. It follows callers after an NHS 111 primary-care disposition and represents subsequent contact with primary care, NHS 111, ambulance services and emergency departments. The Python and SimPy model compares the existing system with timely primary-care contact and reports activity across services and avoidable ED attendance.\nThe original data and parameters relate to callers registered with Bradford and Airedale GP practices, so reuse elsewhere requires local review and validation.\nThe link to sign up to this cycle will be released on 28th October 2026. Please check back then to register your interest in attending. \n\n\nAll sessions\n\n\nCycle 1: Running Non-Elective Flow DES\nCycle 1: Reusing Non-Elective Flow DES\nCycle 2: Running NHS 111 primary care DES\nCycle 2: Reusing NHS 111 primary care DES\nCycle 3: Running triage during intense COVID-19 demand\nCycle 3: Reusing triage during intense COVID-19 demand\n\n\n\n\n\nOpen the MOOOD repository and follow the setup instructions. Participants should aim to:\n\n\nClone the repository and follow the setup instructions in the README to get the model running locally.\nRead the abstract and strengths and limitations in the BMJ Open paper.\n\nAlternatively, participants can use CodeSpaces to explore the model without a local installation (see README for details). The aim is for participants to come to the session with a successful model run that they can continue to explore.\n\n\n\nThis session will focus on discussing how participants experienced getting the model running. Participants will:\n\ndiscuss any issues they encountered and how they resolved them;\nshare their experience of running the model and interpreting the outputs;\ndiscuss what they learned from attempting to reproduce an existing model\n\n\n\n\n\nGitHub repository — model, application, tests, data and container configuration.\nGenerated technical documentation — documentation for the codebase.\nBMJ Open paper — peer-reviewed methods, results and limitations.\nFull text in PubMed Central — alternative open-access version of the paper."
+  },
+  {
+    "objectID": "sessions/3_primary-demand-111-running/index.html#actions-for-participants-before-the-session",
+    "href": "sessions/3_primary-demand-111-running/index.html#actions-for-participants-before-the-session",
+    "title": "Running: Meeting the demand of 111 for primary care services",
+    "section": "",
+    "text": "Open the MOOOD repository and follow the setup instructions. Participants should aim to:\n\n\nClone the repository and follow the setup instructions in the README to get the model running locally.\nRead the abstract and strengths and limitations in the BMJ Open paper.\n\nAlternatively, participants can use CodeSpaces to explore the model without a local installation (see README for details). The aim is for participants to come to the session with a successful model run that they can continue to explore."
+  },
+  {
+    "objectID": "sessions/3_primary-demand-111-running/index.html#session-objectives-and-outline",
+    "href": "sessions/3_primary-demand-111-running/index.html#session-objectives-and-outline",
+    "title": "Running: Meeting the demand of 111 for primary care services",
+    "section": "",
+    "text": "This session will focus on discussing how participants experienced getting the model running. Participants will:\n\ndiscuss any issues they encountered and how they resolved them;\nshare their experience of running the model and interpreting the outputs;\ndiscuss what they learned from attempting to reproduce an existing model"
+  },
+  {
+    "objectID": "sessions/3_primary-demand-111-running/index.html#additional-resources",
+    "href": "sessions/3_primary-demand-111-running/index.html#additional-resources",
+    "title": "Running: Meeting the demand of 111 for primary care services",
+    "section": "",
+    "text": "GitHub repository — model, application, tests, data and container configuration.\nGenerated technical documentation — documentation for the codebase.\nBMJ Open paper — peer-reviewed methods, results and limitations.\nFull text in PubMed Central — alternative open-access version of the paper."
+  },
+  {
     "objectID": "sessions/5_triage-during-intense-demand-running/index.html",
     "href": "sessions/5_triage-during-intense-demand-running/index.html",
     "title": "Running: The Value of Triage during Periods of Intense COVID-19 Demand: Simulation Modeling Study",
@@ -89,6 +110,90 @@
     "title": "Running: The Value of Triage during Periods of Intense COVID-19 Demand: Simulation Modeling Study",
     "section": "",
     "text": "Original GitHub repository — R model, inputs, analysis scripts and outputs.\nPeer-reviewed paper — Wood et al. (2021), Medical Decision Making.\nPubMed record — abstract and bibliographic details.\nHDR UK case study — accessible account of the question and findings."
+  },
+  {
+    "objectID": "join-us/index.html",
+    "href": "join-us/index.html",
+    "title": "Join ReModel",
+    "section": "",
+    "text": "ReModel will run in 2 monthly cycles, with each cycle focusing on a different simulation model. Each cycle will consist of two sessions: a Running session and a Reusing session.\nSession 1: Running - this session will be an opportunity to clone and run the model, reproduce an existing result or scenario, and confidently explore the model and its outputs. Participants will be encouraged to ask questions and share their insights.\nSession 2: Reusing - this session will focus on the technical aspects of the model, including its structure, implementation, data requirements and input assumptions. Participants will consider what they would change, whether they understand the model well enough to make those changes, and how an edited model should be checked and documented.\nEach session will last for 1 hour, and will follow a participative discussion format.\nThe sessions are free to attend, but spaces will be capped at 15 places per session on a first-come, first-served basis; NHS analysts will receive priority."
+  },
+  {
+    "objectID": "join-us/index.html#how-remodel-works",
+    "href": "join-us/index.html#how-remodel-works",
+    "title": "Join ReModel",
+    "section": "",
+    "text": "ReModel will run in 2 monthly cycles, with each cycle focusing on a different simulation model. Each cycle will consist of two sessions: a Running session and a Reusing session.\nSession 1: Running - this session will be an opportunity to clone and run the model, reproduce an existing result or scenario, and confidently explore the model and its outputs. Participants will be encouraged to ask questions and share their insights.\nSession 2: Reusing - this session will focus on the technical aspects of the model, including its structure, implementation, data requirements and input assumptions. Participants will consider what they would change, whether they understand the model well enough to make those changes, and how an edited model should be checked and documented.\nEach session will last for 1 hour, and will follow a participative discussion format.\nThe sessions are free to attend, but spaces will be capped at 15 places per session on a first-come, first-served basis; NHS analysts will receive priority."
+  },
+  {
+    "objectID": "join-us/index.html#register-for-remodel",
+    "href": "join-us/index.html#register-for-remodel",
+    "title": "Join ReModel",
+    "section": "Register for ReModel",
+    "text": "Register for ReModel\nYou can sign up for one, several or all ReModel cycles. Each cycle focuses on one open simulation model and includes two linked sessions: Running and Reusing. Registration for a cycle covers both sessions in that cycle.\n\nCycle 1: Non-Elective Flow Simulation\nCycle 1 focuses on the open-source Non-Elective Flow Simulation, a discrete-event simulation of patients moving from the emergency department into same-day emergency care or an inpatient bed. We will explore how bed capacity, length of stay and same-day emergency care activity affect queues and waiting times.\nRegistration for this cycle covers both online sessions and will open on 13 August 2026 and close on 2 October 2026:\n\nRunning the model: 11am-12pm - 7 October 2026\nReusing the model: 11am-12pm - 28 October 2026\n\n\nSign up for Cycle 1 has now closed.\n\n\nCycle 2: Meeting the demand of NHS 111 for primary care services\nCycle 2 focuses on MOOOD, an open-source discrete-event simulation that follows callers after an NHS 111 primary-care disposition and models their subsequent contact with primary care, NHS 111, ambulance services and emergency departments. We will explore how timely primary-care contact affects activity across services and potentially avoidable emergency department attendance.\nRegistration for this cycle covers both online sessions and will open on 28th October 2026 and close on 25th November 2026:\n\nRunning the model: 11am-12pm - 25 November 2026\nReusing the model: 11am-12pm - 6 January 2027\n\nSign up for Cycle 2\n\n\nCycle 3: The Value of Triage during Periods of Intense COVID-19 Demand\nCycle 3 focuses on an open R simulation of intensive-care triage during periods of intense COVID-19 demand. We will explore how first-come, first-served admission, demand-based triage and reverse triage interact with demand, length of stay and capacity, and affect lives and life-years lost.\nRegistration for this cycle covers both online sessions and will open on 6th January 2027 and close on 25th January 2027:\n\nRunning the model: 11am-12pm - 27 January 2027\nReusing the model: 11am-12pm - 24 February 2027\n\n\nThe link to sign up to this cycle will be released on 6th January 2027. Please check back then to register your interest in attending."
+  },
+  {
+    "objectID": "join-us/index.html#code-of-conduct",
+    "href": "join-us/index.html#code-of-conduct",
+    "title": "Join ReModel",
+    "section": "Code of Conduct",
+    "text": "Code of Conduct\nCommunity rules:\n\nBe respectful: Treat all participants with respect and kindness. Harassment, discrimination, or any form of abusive behavior will not be tolerated.\nCamera and microphone etiquette: When participating in video calls, ensure your camera and microphone are used appropriately. Mute your microphone when not speaking to minimize background noise. We ask that you keep your camera on during sessions to foster a more engaging and interactive environment, but we understand that there may be circumstances where this is not possible.\nStay on topic: Keep discussions relevant to the purpose of the community. Off-topic conversations should be taken to private messages.\nShare knowledge: Contribute your expertise and insights to help others. Be open to learning from others as well.\nReport issues: If you encounter any problems or witness rule violations, report them to the moderators."
+  },
+  {
+    "objectID": "join-us/how-remodel-works.html",
+    "href": "join-us/how-remodel-works.html",
+    "title": "How ReModel Works",
+    "section": "",
+    "text": "ReModel will run in 2 monthly cycles, with each cycle focusing on a different simulation model. Each cycle will consist of two sessions: a Running session and a Reusing session.\nSession 1: Running - this session will be an opportunity to discuss our experiences of cloning and running an existing model and reproducing an existing result or scenario. Participants will be encouraged to ask questions and share their insights.\nSession 2: Reusing - this session will focus on discussing the technical aspects of the model, including its structure, implementation, data requirements and input assumptions. Participants will discuss their experience of making a change to an existing model, and how they might check and document this.\nEach session will last for 1 hour, and will follow a participative discussion format.\nCost: All sessions are free for NHS participants."
+  },
+  {
+    "objectID": "join-us/code-of-conduct.html",
+    "href": "join-us/code-of-conduct.html",
+    "title": "Code of Conduct",
+    "section": "",
+    "text": "Community rules:\n\nBe respectful: Treat all participants with respect and kindness. Harassment, discrimination, or any form of abusive behavior will not be tolerated.\nCamera and microphone etiquette: When participating in video calls, ensure your camera and microphone are used appropriately. Mute your microphone when not speaking to minimize background noise. We ask that you keep your camera on during sessions to foster a more engaging and interactive environment, but we understand that there may be circumstances where this is not possible.\nStay on topic: Keep discussions relevant to the purpose of the community. Off-topic conversations should be taken to private messages.\nShare knowledge: Contribute your expertise and insights to help others. Be open to learning from others as well.\nReport issues: If you encounter any problems or witness rule violations, report them to the moderators."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "ReModel: Read, Run, Reuse",
+    "section": "",
+    "text": "Building a simulation model from scratch is a time-consuming and resource-intensive process. ReModel aims to make it easier for healthcare analysts to read, run, and reuse existing open simulation models. We recognise that within healthcare there is a potential to reuse existing models because many of the problems faced by healthcare systems are similar as are many of the pathways experienced by patients. ReModel is a project that aims to make it easier to read, run, and reuse open simulation models.\nOur goal is to empower people within the NHS to:\n\nrun open source simulation models on their own machines\ncritique/assess/evaluate simulation models with their pros and cons\nrepurpose existing simulation models for their own use cases\n\nThis is the website for ReModel - a club for healthcare simulation enthusiasts to meet and engage in reusing open simulation models.\nOur mantra when it comes to healthcare simulation is Read, Run, Reuse.\nThere is already a wealth of simulation models that are not being used to their full potential. ReModel is a project that aims to change this by making it easier to read, run, and reuse open simulation models.\nIf you are a healthcare analyst with an interest in simulation, or a simulation modeller who wants to learn how to better share your work, then ReModel is for you.\nThis website is a hub for ReModel activities. ReModel is hosted by the Strategy Unit.\nFind out more about taking part and take a look at previous and upcoming sessions."
+  },
+  {
+    "objectID": "index.html#remodel-aims",
+    "href": "index.html#remodel-aims",
+    "title": "ReModel: Read, Run, Reuse",
+    "section": "",
+    "text": "Building a simulation model from scratch is a time-consuming and resource-intensive process. ReModel aims to make it easier for healthcare analysts to read, run, and reuse existing open simulation models. We recognise that within healthcare there is a potential to reuse existing models because many of the problems faced by healthcare systems are similar as are many of the pathways experienced by patients. ReModel is a project that aims to make it easier to read, run, and reuse open simulation models.\nOur goal is to empower people within the NHS to:\n\nrun open source simulation models on their own machines\ncritique/assess/evaluate simulation models with their pros and cons\nrepurpose existing simulation models for their own use cases\n\nThis is the website for ReModel - a club for healthcare simulation enthusiasts to meet and engage in reusing open simulation models.\nOur mantra when it comes to healthcare simulation is Read, Run, Reuse.\nThere is already a wealth of simulation models that are not being used to their full potential. ReModel is a project that aims to change this by making it easier to read, run, and reuse open simulation models.\nIf you are a healthcare analyst with an interest in simulation, or a simulation modeller who wants to learn how to better share your work, then ReModel is for you.\nThis website is a hub for ReModel activities. ReModel is hosted by the Strategy Unit.\nFind out more about taking part and take a look at previous and upcoming sessions."
+  },
+  {
+    "objectID": "index.html#how-does-remodel-work",
+    "href": "index.html#how-does-remodel-work",
+    "title": "ReModel: Read, Run, Reuse",
+    "section": "How does ReModel work?",
+    "text": "How does ReModel work?\nSee how ReModel works for further details on how sessions will run. Whilst our target audience is NHS analysts we welcome registrations from non-NHS analysts. Spaces will be capped to 15 places per session and places will be prioritised for NHS analysts."
+  },
+  {
+    "objectID": "index.html#how-do-i-join",
+    "href": "index.html#how-do-i-join",
+    "title": "ReModel: Read, Run, Reuse",
+    "section": "How do I join?",
+    "text": "How do I join?\nRegister for ReModel."
+  },
+  {
+    "objectID": "index.html#how-we-are-funded",
+    "href": "index.html#how-we-are-funded",
+    "title": "ReModel: Read, Run, Reuse",
+    "section": "How we are funded",
+    "text": "How we are funded\nReModel has been funded in 25/26 as part of the national Strategic Commissioning Intelligence Centre (SCIC).\nSimulation modelling can be effectively used in strategic commissioning by:\n\nAnalysing complex systems: It allows organizations to evaluate different scenarios and make data-driven decisions, which is crucial for strategic planning in commissioning.\nIdentifying resource needs: Simulation modelling helps in understanding the current state of health services and identifying underserved communities, enabling better allocation of resources.\nEvaluating service impacts: It allows for the assessment of the impact of various service changes on population health and resource utilization, ensuring that commissioning decisions are evidence-based.\nSupporting economic evaluation: By analysing the economic return on investment for interventions, simulation modelling aids in prioritizing services and ensuring that resources are used efficiently.\nFacilitating transparency: It promotes transparency in decision-making processes, allowing stakeholders to understand the rationale behind commissioning decisions."
+  },
+  {
+    "objectID": "sessions/index.html",
+    "href": "sessions/index.html",
+    "title": "ReModel sessions",
+    "section": "",
+    "text": "Cycle 1: Non-Elective Flow Simulation\n\n\n\n\n\n\nRunning: Nonelective Flow DES\n\n\n\nDES\n\n\n\n\n\nOct 7, 2026\n\n\nDr Lucy Morgan\n\n\n\n\n\n\nReusing: Nonelective Flow DES\n\n\n\nDES\n\n\n\n\n\nOct 28, 2026\n\n\nDr Lucy Morgan\n\n\n\n\n\nCycle 2: Meeting the demand of NHS 111 for primary care services\n\n\n\n\n\n\nRunning: Meeting the demand of 111 for primary care services\n\n\n\nDES\n\n\n\n\n\nNov 25, 2026\n\n\nDr Lucy Morgan\n\n\n\n\n\n\nReusing: Meeting the demand of 111 for primary care services\n\n\n\nDES\n\n\n\n\n\nJan 6, 2027\n\n\nDr Lucy Morgan\n\n\n\n\n\nCycle 3: The Value of Triage during Periods of Intense COVID-19 Demand\n\n\n\n\n\n\nRunning: The Value of Triage during Periods of Intense COVID-19 Demand: Simulation Modeling Study\n\n\n\nDES\n\n\n\n\n\nJan 27, 2027\n\n\nDr Lucy Morgan\n\n\n\n\n\n\nReusing: The Value of Triage during Periods of Intense COVID-19 Demand: Simulation Modeling Study\n\n\n\nDES\n\n\n\n\n\nFeb 24, 2027\n\n\nDr Lucy Morgan\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "sessions/1_nonelective-flow-running/index.html",
@@ -145,110 +250,5 @@
     "title": "Reusing: Meeting the demand of 111 for primary care services",
     "section": "",
     "text": "GitHub repository — source code, tests and configuration.\nHSMA project page — project background and supporting material.\nHealthcare Service Analytics & Decision Intelligence Atlas review — assessment of documentation, testing, reproducibility and deployment.\nUniversity of Plymouth research record — publication details and related outputs.\nSupporting observational study — analysis of NHS 111 demand for primary-care services.\n\nReuse elsewhere will require local review and validation of the demand, capacity, pathway and behavioural assumptions."
-  },
-  {
-    "objectID": "sessions/index.html",
-    "href": "sessions/index.html",
-    "title": "ReModel sessions",
-    "section": "",
-    "text": "Cycle 1: Non-Elective Flow Simulation\n\n\n\n\n\n\nRunning: Nonelective Flow DES\n\n\n\nDES\n\n\n\n\n\nOct 7, 2026\n\n\nDr Lucy Morgan\n\n\n\n\n\n\nReusing: Nonelective Flow DES\n\n\n\nDES\n\n\n\n\n\nOct 28, 2026\n\n\nDr Lucy Morgan\n\n\n\n\n\nCycle 2: Meeting the demand of NHS 111 for primary care services\n\n\n\n\n\n\nRunning: Meeting the demand of 111 for primary care services\n\n\n\nDES\n\n\n\n\n\nNov 25, 2026\n\n\nDr Lucy Morgan\n\n\n\n\n\n\nReusing: Meeting the demand of 111 for primary care services\n\n\n\nDES\n\n\n\n\n\nJan 6, 2027\n\n\nDr Lucy Morgan\n\n\n\n\n\nCycle 3: The Value of Triage during Periods of Intense COVID-19 Demand\n\n\n\n\n\n\nRunning: The Value of Triage during Periods of Intense COVID-19 Demand: Simulation Modeling Study\n\n\n\nDES\n\n\n\n\n\nJan 27, 2027\n\n\nDr Lucy Morgan\n\n\n\n\n\n\nReusing: The Value of Triage during Periods of Intense COVID-19 Demand: Simulation Modeling Study\n\n\n\nDES\n\n\n\n\n\nFeb 24, 2027\n\n\nDr Lucy Morgan\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "sessions/2_nonelective-flow-reusing/index.html",
-    "href": "sessions/2_nonelective-flow-reusing/index.html",
-    "title": "Reusing: Nonelective Flow DES",
-    "section": "",
-    "text": "The Non-Elective Flow Simulation is an open-source discrete-event simulation developed by Helena Robinson at Countess of Chester Hospital NHS Foundation Trust. It represents patients moving from the emergency department into SDEC or an inpatient bed and explores how bed capacity, admitted length of stay and SDEC activity affect queues and waiting times. The model is written in Python using SimPy and includes a Streamlit interface.\n\nRegistration for this cycle is now closed. Please check back for future cycles.\n\n\nAll sessions\n\n\nCycle 1: Running Non-Elective Flow DES\nCycle 1: Reusing Non-Elective Flow DES\nCycle 2: Running NHS 111 primary care DES\nCycle 2: Reusing NHS 111 primary care DES\nCycle 3: Running triage during intense COVID-19 demand\nCycle 3: Reusing triage during intense COVID-19 demand\n\n\n\n\n\nIn order to reuse a model you need to understand its structure and implementation. Prior to the session participants will:\n\ndescribe how they think the model is structured from inputs through to outputs;\ncompare that understanding with the repository and SimPy implementation;\nidentify how patients, queues, resources and events are represented;\nlocate assumptions for arrivals, length of stay, capacity and SDEC activity;\ndiscuss what they would change for a different question, service or local setting;\nattempt to make a change to the model and run it successfully;\nconsider how a change would need to be tested, validated and documented.\n\nThe aim is for participants to be able to identify a model component that they would change, locate it in the model and assess whether they understand the implementation well enough to make the change confidently.\n\n\n\nThis session will focus on discussing how participants experienced reusing the model. Participants will:\n\nshare their experience of modifying the model for their own needs;\ndiscuss any issues they encountered and how they resolved them;\nreflect on what they learned from attempting to reuse the model.\n\n\n\n\n\nGitHub repository — source code and repository documentation.\nProject presentation slides — background to the model and its intended use.\nHSMA showcase presentation — recorded project presentation.\nVidigi paper — related work on animated visualisation of discrete-event simulation models, using this model as an application example.\n\nThe project is documented through its repository and HSMA materials. We are not currently aware of a dedicated peer-reviewed paper or independent reproduction of this specific model."
-  },
-  {
-    "objectID": "sessions/2_nonelective-flow-reusing/index.html#actions-for-participants-before-the-session",
-    "href": "sessions/2_nonelective-flow-reusing/index.html#actions-for-participants-before-the-session",
-    "title": "Reusing: Nonelective Flow DES",
-    "section": "",
-    "text": "In order to reuse a model you need to understand its structure and implementation. Prior to the session participants will:\n\ndescribe how they think the model is structured from inputs through to outputs;\ncompare that understanding with the repository and SimPy implementation;\nidentify how patients, queues, resources and events are represented;\nlocate assumptions for arrivals, length of stay, capacity and SDEC activity;\ndiscuss what they would change for a different question, service or local setting;\nattempt to make a change to the model and run it successfully;\nconsider how a change would need to be tested, validated and documented.\n\nThe aim is for participants to be able to identify a model component that they would change, locate it in the model and assess whether they understand the implementation well enough to make the change confidently."
-  },
-  {
-    "objectID": "sessions/2_nonelective-flow-reusing/index.html#session-objectives-and-outline",
-    "href": "sessions/2_nonelective-flow-reusing/index.html#session-objectives-and-outline",
-    "title": "Reusing: Nonelective Flow DES",
-    "section": "",
-    "text": "This session will focus on discussing how participants experienced reusing the model. Participants will:\n\nshare their experience of modifying the model for their own needs;\ndiscuss any issues they encountered and how they resolved them;\nreflect on what they learned from attempting to reuse the model."
-  },
-  {
-    "objectID": "sessions/2_nonelective-flow-reusing/index.html#additional-resources",
-    "href": "sessions/2_nonelective-flow-reusing/index.html#additional-resources",
-    "title": "Reusing: Nonelective Flow DES",
-    "section": "",
-    "text": "GitHub repository — source code and repository documentation.\nProject presentation slides — background to the model and its intended use.\nHSMA showcase presentation — recorded project presentation.\nVidigi paper — related work on animated visualisation of discrete-event simulation models, using this model as an application example.\n\nThe project is documented through its repository and HSMA materials. We are not currently aware of a dedicated peer-reviewed paper or independent reproduction of this specific model."
-  },
-  {
-    "objectID": "sessions/3_primary-demand-111-running/index.html",
-    "href": "sessions/3_primary-demand-111-running/index.html",
-    "title": "Running: Meeting the demand of 111 for primary care services",
-    "section": "",
-    "text": "MOOOD is an open-source discrete-event simulation developed by Richard Pilbery and colleagues. It follows callers after an NHS 111 primary-care disposition and represents subsequent contact with primary care, NHS 111, ambulance services and emergency departments. The Python and SimPy model compares the existing system with timely primary-care contact and reports activity across services and avoidable ED attendance.\nThe original data and parameters relate to callers registered with Bradford and Airedale GP practices, so reuse elsewhere requires local review and validation.\nThe link to sign up to this cycle will be released on 28th October 2026. Please check back then to register your interest in attending. \n\n\nAll sessions\n\n\nCycle 1: Running Non-Elective Flow DES\nCycle 1: Reusing Non-Elective Flow DES\nCycle 2: Running NHS 111 primary care DES\nCycle 2: Reusing NHS 111 primary care DES\nCycle 3: Running triage during intense COVID-19 demand\nCycle 3: Reusing triage during intense COVID-19 demand\n\n\n\n\n\nOpen the MOOOD repository and follow the setup instructions. Participants should aim to:\n\n\nClone the repository and follow the setup instructions in the README to get the model running locally.\nRead the abstract and strengths and limitations in the BMJ Open paper.\n\nAlternatively, participants can use CodeSpaces to explore the model without a local installation (see README for details). The aim is for participants to come to the session with a successful model run that they can continue to explore.\n\n\n\nThis session will focus on discussing how participants experienced getting the model running. Participants will:\n\ndiscuss any issues they encountered and how they resolved them;\nshare their experience of running the model and interpreting the outputs;\ndiscuss what they learned from attempting to reproduce an existing model\n\n\n\n\n\nGitHub repository — model, application, tests, data and container configuration.\nGenerated technical documentation — documentation for the codebase.\nBMJ Open paper — peer-reviewed methods, results and limitations.\nFull text in PubMed Central — alternative open-access version of the paper."
-  },
-  {
-    "objectID": "sessions/3_primary-demand-111-running/index.html#actions-for-participants-before-the-session",
-    "href": "sessions/3_primary-demand-111-running/index.html#actions-for-participants-before-the-session",
-    "title": "Running: Meeting the demand of 111 for primary care services",
-    "section": "",
-    "text": "Open the MOOOD repository and follow the setup instructions. Participants should aim to:\n\n\nClone the repository and follow the setup instructions in the README to get the model running locally.\nRead the abstract and strengths and limitations in the BMJ Open paper.\n\nAlternatively, participants can use CodeSpaces to explore the model without a local installation (see README for details). The aim is for participants to come to the session with a successful model run that they can continue to explore."
-  },
-  {
-    "objectID": "sessions/3_primary-demand-111-running/index.html#session-objectives-and-outline",
-    "href": "sessions/3_primary-demand-111-running/index.html#session-objectives-and-outline",
-    "title": "Running: Meeting the demand of 111 for primary care services",
-    "section": "",
-    "text": "This session will focus on discussing how participants experienced getting the model running. Participants will:\n\ndiscuss any issues they encountered and how they resolved them;\nshare their experience of running the model and interpreting the outputs;\ndiscuss what they learned from attempting to reproduce an existing model"
-  },
-  {
-    "objectID": "sessions/3_primary-demand-111-running/index.html#additional-resources",
-    "href": "sessions/3_primary-demand-111-running/index.html#additional-resources",
-    "title": "Running: Meeting the demand of 111 for primary care services",
-    "section": "",
-    "text": "GitHub repository — model, application, tests, data and container configuration.\nGenerated technical documentation — documentation for the codebase.\nBMJ Open paper — peer-reviewed methods, results and limitations.\nFull text in PubMed Central — alternative open-access version of the paper."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "ReModel: Read, Run, Reuse",
-    "section": "",
-    "text": "Building a simulation model from scratch is a time-consuming and resource-intensive process. ReModel aims to make it easier for healthcare analysts to read, run, and reuse existing open simulation models. We recognise that within healthcare there is a potential to reuse existing models because many of the problems faced by healthcare systems are similar as are many of the pathways experienced by patients. ReModel is a project that aims to make it easier to read, run, and reuse open simulation models.\nOur goal is to empower people within the NHS to:\n\nrun open source simulation models on their own machines\ncritique/assess/evaluate simulation models with their pros and cons\nrepurpose existing simulation models for their own use cases\n\nThis is the website for ReModel - a club for healthcare simulation enthusiasts to meet and engage in reusing open simulation models.\nOur mantra when it comes to healthcare simulation is Read, Run, Reuse.\nThere is already a wealth of simulation models that are not being used to their full potential. ReModel is a project that aims to change this by making it easier to read, run, and reuse open simulation models.\nIf you are a healthcare analyst with an interest in simulation, or a simulation modeller who wants to learn how to better share your work, then ReModel is for you.\nThis website is a hub for ReModel activities. ReModel is hosted by the Strategy Unit.\nFind out more about taking part and take a look at previous and upcoming sessions."
-  },
-  {
-    "objectID": "index.html#remodel-aims",
-    "href": "index.html#remodel-aims",
-    "title": "ReModel: Read, Run, Reuse",
-    "section": "",
-    "text": "Building a simulation model from scratch is a time-consuming and resource-intensive process. ReModel aims to make it easier for healthcare analysts to read, run, and reuse existing open simulation models. We recognise that within healthcare there is a potential to reuse existing models because many of the problems faced by healthcare systems are similar as are many of the pathways experienced by patients. ReModel is a project that aims to make it easier to read, run, and reuse open simulation models.\nOur goal is to empower people within the NHS to:\n\nrun open source simulation models on their own machines\ncritique/assess/evaluate simulation models with their pros and cons\nrepurpose existing simulation models for their own use cases\n\nThis is the website for ReModel - a club for healthcare simulation enthusiasts to meet and engage in reusing open simulation models.\nOur mantra when it comes to healthcare simulation is Read, Run, Reuse.\nThere is already a wealth of simulation models that are not being used to their full potential. ReModel is a project that aims to change this by making it easier to read, run, and reuse open simulation models.\nIf you are a healthcare analyst with an interest in simulation, or a simulation modeller who wants to learn how to better share your work, then ReModel is for you.\nThis website is a hub for ReModel activities. ReModel is hosted by the Strategy Unit.\nFind out more about taking part and take a look at previous and upcoming sessions."
-  },
-  {
-    "objectID": "index.html#how-does-remodel-work",
-    "href": "index.html#how-does-remodel-work",
-    "title": "ReModel: Read, Run, Reuse",
-    "section": "How does ReModel work?",
-    "text": "How does ReModel work?\nSee how ReModel works for further details on how sessions will run. Whilst our target audience is NHS analysts we welcome registrations from non-NHS analysts. Spaces will be capped to 15 places per session and places will be prioritised for NHS analysts."
-  },
-  {
-    "objectID": "index.html#how-do-i-join",
-    "href": "index.html#how-do-i-join",
-    "title": "ReModel: Read, Run, Reuse",
-    "section": "How do I join?",
-    "text": "How do I join?\nRegister for ReModel."
-  },
-  {
-    "objectID": "index.html#how-we-are-funded",
-    "href": "index.html#how-we-are-funded",
-    "title": "ReModel: Read, Run, Reuse",
-    "section": "How we are funded",
-    "text": "How we are funded\nReModel has been funded in 25/26 as part of the national Strategic Commissioning Intelligence Centre (SCIC).\nSimulation modelling can be effectively used in strategic commissioning by:\n\nAnalysing complex systems: It allows organizations to evaluate different scenarios and make data-driven decisions, which is crucial for strategic planning in commissioning.\nIdentifying resource needs: Simulation modelling helps in understanding the current state of health services and identifying underserved communities, enabling better allocation of resources.\nEvaluating service impacts: It allows for the assessment of the impact of various service changes on population health and resource utilization, ensuring that commissioning decisions are evidence-based.\nSupporting economic evaluation: By analysing the economic return on investment for interventions, simulation modelling aids in prioritizing services and ensuring that resources are used efficiently.\nFacilitating transparency: It promotes transparency in decision-making processes, allowing stakeholders to understand the rationale behind commissioning decisions."
-  },
-  {
-    "objectID": "join-us/how-remodel-works.html",
-    "href": "join-us/how-remodel-works.html",
-    "title": "How ReModel Works",
-    "section": "",
-    "text": "ReModel will run in 2 monthly cycles, with each cycle focusing on a different simulation model. Each cycle will consist of two sessions: a Running session and a Reusing session.\nSession 1: Running - this session will be an opportunity to discuss our experiences of cloning and running an existing model and reproducing an existing result or scenario. Participants will be encouraged to ask questions and share their insights.\nSession 2: Reusing - this session will focus on discussing the technical aspects of the model, including its structure, implementation, data requirements and input assumptions. Participants will discuss their experience of making a change to an existing model, and how they might check and document this.\nEach session will last for 1 hour, and will follow a participative discussion format.\nCost: All sessions are free for NHS participants."
   }
 ]
