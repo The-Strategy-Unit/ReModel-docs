@@ -41,15 +41,15 @@ Sign up for Cycle 1 has now closed.
 
 Cycle 2 focuses on **MOOOD**, an open-source discrete-event simulation that follows callers after an NHS 111 primary-care disposition and models their subsequent contact with primary care, NHS 111, ambulance services and emergency departments. We will explore how timely primary-care contact affects activity across services and potentially avoidable emergency department attendance.
 
-Registration for this cycle covers both online sessions and will open on 28th October 2026 and close on 23rd November 2026:
+Registration for this cycle covers both online sessions and will open on 28th October 2026 and close on 25th November 2026:
 
 - **Running the model:** 11am-12pm - 25 November 2026
 - **Reusing the model:** 11am-12pm - 6 January 2027
 
-<!---
-[Sign up for Cycle 2]({{< var registration_forms.cycle_2 >}}){.btn .btn-primary target="_blank"}
--->
-The link to sign up to this cycle will be released on 28th October 2026. Please check back then to register your interest in attending.
+
+[Sign up for Cycle 2](https://forms.cloud.microsoft/pages/responsepage.aspx?id=zwd49LyvhEGleYZ4vqMBmkWa4gHG8AREpoT_NdtflytUMU5USUNCUTFCTjhLMUxORk40NExWTlg4Ri4u&route=shorturl){.btn .btn-primary target="_blank"}
+
+
 
 ### Cycle 3: The Value of Triage during Periods of Intense COVID-19 Demand
 
